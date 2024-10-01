@@ -1,5 +1,4 @@
 import React from 'react'
-import { MessageCircleMore } from 'lucide-react'
 
 const Cta = () => {
   return (

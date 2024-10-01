@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { Package, Droplet, Rocket } from 'lucide-react'
+
 import { motion, useAnimation } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 
